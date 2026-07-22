@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1784744655,
+	"version": 1784746984,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -138,7 +138,6 @@
 		"images/tipspanel-sheet0.png",
 		"images/joystick_base-sheet0.png",
 		"images/joystick_thumb-sheet0.png",
-		"images/joystick_button-sheet0.png",
 		"images/touch_close-sheet0.png",
 		"media/shoot.ogg",
 		"media/kill.ogg",
