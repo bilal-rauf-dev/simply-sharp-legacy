@@ -1,4 +1,5 @@
 # Simply Sharp
+> Deprecated. New version coming soon :)
 
 An arcade-style shooter built in [Construct 2](https://www.construct.net/en), exported as a static HTML5 project. Features include a player-controlled shooter with enemies, a coin/currency system, an in-game shop for upgrades (health, damage, fire rate, bullets), and level progression.
 
